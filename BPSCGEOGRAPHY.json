@@ -1,0 +1,58 @@
+{
+  "videos": [
+    {
+      "title": "Geography Live Stream 1",
+      "id": "Gz0AiLIhITc"
+    },
+    {
+      "title": "Geography Live Stream 2",
+      "id": "rOS9Jkty0Xc"
+    },
+    {
+      "title": "Geography Live Stream 3",
+      "id": "2Y8UVYZSrZU"
+    },
+    {
+      "title": "Geography Live Stream 4",
+      "id": "vz9o9ao2FSo"
+    },
+    {
+      "title": "Geography Live Stream 5",
+      "id": "bamu7QjMOfg"
+    },
+    {
+      "title": "Geography Live Stream 6",
+      "id": "cS-dGSZoQOM"
+    },
+    {
+      "title": "Geography Live Stream 7",
+      "id": "O8We6uupYE8"
+    },
+    {
+      "title": "Geography Live Stream 8",
+      "id": "ELdb0pOg9AM"
+    },
+    {
+      "title": "Geography Live Stream 9",
+      "id": "ylv1bRrXoiw"
+    },
+    {
+      "title": "Geography Live Stream 10",
+      "id": "m97lyPEsYX4"
+    },
+    {
+      "title": "Geography Live Stream 11",
+      "id": "Cgmv_Ai3pew"
+    }
+  ],
+  "pdfs": [
+    {
+      "title": "Indian Geography Basics",
+      "link": "https://example.com/indian_geography_basics.pdf"
+    },
+    {
+      "title": "Advanced Indian Geography",
+      "link": "https://example.com/advanced_indian_geography.pdf"
+    }
+  ]
+}
